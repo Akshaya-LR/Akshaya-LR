@@ -1,9 +1,9 @@
 - 👋 Hey there!! I’m @Akshaya-LR
 - 👀 I’m interested in Java, Python, Embedded Systems, and Web development
-- 📚 I’m currently learning Python
-- 📌 I'm planning to learn Web development in future
-- 💞️ I’m looking to collaborate on Java and Python
-- 📫 Connect with me on Twitter @akshaya_lr 
+- 🎯 Currently focusing on Web development with Flask
+- 💞️ I’m looking to collaborate on Python and Web development projects
+- 📫 Connect with me on Twitter @akshaya_lr
+- 💻 Check out my Blog website made with ❤️ using Flask 
 
 <!---
 Akshaya-LR/Akshaya-LR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
